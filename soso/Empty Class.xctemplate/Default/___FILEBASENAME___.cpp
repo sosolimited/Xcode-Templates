@@ -7,4 +7,4 @@
 
 #include "___FILEBASENAME___.h"
 
-using namespace ns;
+using namespace ___PROJECTNAMEASIDENTIFIER___;

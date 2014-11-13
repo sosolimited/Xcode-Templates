@@ -7,15 +7,13 @@
 
 #pragma once
 
-namespace ns
-{
+namespace ___PROJECTNAMEASIDENTIFIER___ {
 
-class ___FILEBASENAMEASIDENTIFIER___
-{
+class ___FILEBASENAMEASIDENTIFIER___ {
 public:
 
 private:
 
 };
 
-} // namespace ns
+} // namespace ___PROJECTNAMEASIDENTIFIER___

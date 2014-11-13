@@ -7,7 +7,7 @@
 
 #pragma once
 
-namespace ns
+namespace ___PROJECTNAMEASIDENTIFIER___
 {
 
-} // namespace ns
+} // namespace ___PROJECTNAMEASIDENTIFIER___
