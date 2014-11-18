@@ -2,9 +2,13 @@
 
 Some quick templates for C++ in Xcode.
 
-Install to `~/Library/Developer/Xcode/Templates`
+## Installation
+Xcode looks for templates in the `~/Library/Developer/Xcode/Templates` directory.
+Clone this repository into the templates directory.
 
 ```bash
-cd ~/Library/Developer/Xcode/
-git clone git@github.com:sosolimited/Xcode-Templates.git
+# Note that you might need to create the Templates directory if it's not there
+cd ~/Library/Developer/Xcode/Templates
+# Clone the soso templates into a directory named 'soso'
+git clone git@github.com:sosolimited/Xcode-Templates.git soso
 ```
