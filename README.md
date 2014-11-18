@@ -12,3 +12,7 @@ cd ~/Library/Developer/Xcode/Templates
 # Clone the soso templates into a directory named 'soso'
 git clone git@github.com:sosolimited/Xcode-Templates.git soso
 ```
+
+## Templates
+- Empty Class
+- Empty File
