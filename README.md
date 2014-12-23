@@ -14,5 +14,7 @@ git clone git@github.com:sosolimited/Xcode-Templates.git soso
 ```
 
 ## Templates
-- Empty Class
-- Empty File
+- Empty File.
+- Empty Class.
+- EntityX System. Requires [EntityX](https://github.com/alecthomas/entityx) for your project to compile.
+- EntityX Component.  Requires [EntityX](https://github.com/alecthomas/entityx) for your project to compile.
