@@ -7,7 +7,6 @@
 
 #pragma once
 
-namespace ___PROJECTNAMEASIDENTIFIER___
-{
+namespace ___PROJECTNAMEASIDENTIFIER___ {
 
 } // namespace ___PROJECTNAMEASIDENTIFIER___

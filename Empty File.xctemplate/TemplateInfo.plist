@@ -34,9 +34,9 @@
 			<key>Default</key>
 			<string>true</string>
 			<key>Description</key>
-			<string>Whether to create a header file with the same name</string>
+			<string>Whether to create an implementation file with the same name</string>
 			<key>Identifier</key>
-			<string>WithHeader</string>
+			<string>WithImplementation</string>
 			<key>Name</key>
 			<string>Also create a header file</string>
 			<key>NotPersisted</key>

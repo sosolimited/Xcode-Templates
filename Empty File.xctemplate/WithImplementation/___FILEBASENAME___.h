@@ -9,12 +9,4 @@
 
 namespace ___PROJECTNAMEASIDENTIFIER___ {
 
-class ___FILEBASENAMEASIDENTIFIER___
-{
-public:
-
-private:
-
-};
-
 } // namespace ___PROJECTNAMEASIDENTIFIER___
