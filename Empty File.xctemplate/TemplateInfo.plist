@@ -38,7 +38,7 @@
 			<key>Identifier</key>
 			<string>WithImplementation</string>
 			<key>Name</key>
-			<string>Also create a header file</string>
+			<string>Also create an implementation file</string>
 			<key>NotPersisted</key>
 			<true/>
 			<key>Type</key>
