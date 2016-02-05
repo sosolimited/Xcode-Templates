@@ -7,11 +7,9 @@
 
 #pragma once
 
-#include "entityx/Entity.h"
-
 namespace soso {
 
-struct ___FILEBASENAMEASIDENTIFIER___ : public entityx::Component<___FILEBASENAMEASIDENTIFIER___>
+struct ___FILEBASENAMEASIDENTIFIER___
 {
 
 };
