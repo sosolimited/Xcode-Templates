@@ -7,4 +7,4 @@
 
 #include "___FILEBASENAME___.h"
 
-using namespace ___PROJECTNAMEASIDENTIFIER___;
+using namespace soso;

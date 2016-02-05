@@ -9,11 +9,11 @@
 
 #include "entityx/Entity.h"
 
-namespace ___PROJECTNAMEASIDENTIFIER___ {
+namespace soso {
 
 struct ___FILEBASENAMEASIDENTIFIER___ : public entityx::Component<___FILEBASENAMEASIDENTIFIER___>
 {
 
 };
 
-} // namespace ___PROJECTNAMEASIDENTIFIER___
+} // namespace soso
