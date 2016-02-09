@@ -1,13 +1,13 @@
 //
-//  ___FILENAME___
+// ___FILENAME___
 //
-//  Created by ___FULLUSERNAME___ on ___DATE___.
-//___COPYRIGHT___
+// Created by ___FULLUSERNAME___ on ___DATE___.
+// ___COPYRIGHT___
 //
 
 #include "___FILEBASENAME___.h"
 
-using namespace ___PROJECTNAMEASIDENTIFIER___;
+using namespace soso;
 using namespace entityx;
 
 void ___FILEBASENAMEASIDENTIFIER___::configure( EventManager &events )

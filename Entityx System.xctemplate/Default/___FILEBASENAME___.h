@@ -1,15 +1,16 @@
 //
-//  ___FILENAME___
+// ___FILENAME___
 //
-//  Created by ___FULLUSERNAME___ on ___DATE___.
-//___COPYRIGHT___
+// Created by ___FULLUSERNAME___ on ___DATE___.
+// ___COPYRIGHT___
 //
 
 #pragma once
 
 #include "entityx/System.h"
 
-namespace ___PROJECTNAMEASIDENTIFIER___ {
+namespace soso
+{
 
 class ___FILEBASENAMEASIDENTIFIER___ : public entityx::System<___FILEBASENAMEASIDENTIFIER___>
 {
@@ -20,4 +21,4 @@ private:
 
 };
 
-} // namespace ___PROJECTNAMEASIDENTIFIER___
+} // namespace soso

@@ -8,9 +8,3 @@
 #include "___FILEBASENAME___.h"
 
 using namespace soso;
-using namespace entityx;
-
-void ___FILEBASENAMEASIDENTIFIER___::update( EntityManager &entities, EventManager &events, TimeDelta dt )
-{
-
-}
