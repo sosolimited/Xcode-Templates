@@ -30,6 +30,20 @@
 			<key>Type</key>
 			<string>text</string>
 		</dict>
+		<dict>
+			<key>Default</key>
+			<string>false</string>
+			<key>Description</key>
+			<string>Whether this is the main test file</string>
+			<key>Identifier</key>
+			<string>IsMain</string>
+			<key>Name</key>
+			<string>This is the main test file</string>
+			<key>NotPersisted</key>
+			<true/>
+			<key>Type</key>
+			<string>checkbox</string>
+		</dict>
 	</array>
 </dict>
 </plist>
